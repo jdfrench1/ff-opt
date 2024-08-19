@@ -1,0 +1,1178 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:29:41] "GET /recommendation HTTP/1.1" 200 -
+DEBUG:app:<Request 'http://localhost:5000/players' [POST]>
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:29:49] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:29:49] "[35m[1mPOST /players HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:29:51] "GET /recommendation HTTP/1.1" 200 -
+DEBUG:app:<Request 'http://localhost:5000/players' [GET]>
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:30:17] "GET /players HTTP/1.1" 200 -
+DEBUG:app:<Request 'http://localhost:5000/players' [POST]>
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:30:21] "[35m[1mPOST /players HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:30:21] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\jordo\\OneDrive\\Documents\\GitHub\\ff-op-cost\\backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug: * Detected change in 'C:\\Users\\jordo\\OneDrive\\Documents\\GitHub\\ff-op-cost\\backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:31:00] "GET /recommendation HTTP/1.1" 200 -
+DEBUG:app:<Request 'http://localhost:5000/players' [POST]>
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:31:00] "[35m[1mPOST /players HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:31:00] "GET /recommendation HTTP/1.1" 200 -
+DEBUG:app:<Request 'http://localhost:5000/players' [POST]>
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:31:04] "[35m[1mPOST /players HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:31:05] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:31:06] "GET /recommendation HTTP/1.1" 200 -
+DEBUG:app:<Request 'http://localhost:5000/players' [GET]>
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:31:09] "GET /players HTTP/1.1" 200 -
+DEBUG:app:<Request 'http://localhost:5000/players' [POST]>
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:31:11] "[35m[1mPOST /players HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:31:11] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:31:12] "GET /recommendation HTTP/1.1" 200 -
+DEBUG:app:<Request 'http://localhost:5000/players' [GET]>
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:31:16] "GET /players HTTP/1.1" 200 -
+DEBUG:app:<Request 'http://localhost:5000/players' [POST]>
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:31:17] "[35m[1mPOST /players HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:31:18] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:31:18] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\jordo\\OneDrive\\Documents\\GitHub\\ff-op-cost\\backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:31:52] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:31:53] "GET /recommendation HTTP/1.1" 200 -
+DEBUG:app:dict_keys(['[object Object]'])
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:31:53] "[35m[1mPOST /players HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\jordo\\OneDrive\\Documents\\GitHub\\ff-op-cost\\backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:32:37] "[35m[1mGET /players HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:32:39] "[35m[1mGET /players HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\jordo\\OneDrive\\Documents\\GitHub\\ff-op-cost\\backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug: * Detected change in 'C:\\Users\\jordo\\OneDrive\\Documents\\GitHub\\ff-op-cost\\backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:33:35] "[35m[1mGET /players HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:33:36] "[35m[1mGET /players HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:33:39] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:33:39] "[35m[1mDELETE /players HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:33:40] "[35m[1mGET /players HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:33:41] "[35m[1mGET /players HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\jordo\\OneDrive\\Documents\\GitHub\\ff-op-cost\\backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:34:32] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:34:36] "[35m[1mPOST /players HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:34:36] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\jordo\\OneDrive\\Documents\\GitHub\\ff-op-cost\\backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:35:32] "[31m[1mGET /players HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:35:35] "[31m[1mGET /players HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:35:41] "[31m[1mGET /players HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:35:44] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:35:44] "[31m[1mDELETE /players HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:36:05] "[31m[1mGET /players HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:36:06] "[31m[1mGET /players HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:36:19] "[31m[1mGET /players HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\jordo\\OneDrive\\Documents\\GitHub\\ff-op-cost\\backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug: * Detected change in 'C:\\Users\\jordo\\OneDrive\\Documents\\GitHub\\ff-op-cost\\backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:36:55] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:36:57] "[31m[1mPOST /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:36:57] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:37:21] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:37:23] "[31m[1mPOST /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:37:24] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:37:29] "[31m[1mPOST /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:37:30] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:37:34] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:37:35] "[31m[1mPOST /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:37:35] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:37:36] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:38:02] "[31m[1mGET /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:38:04] "[31m[1mGET /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:38:05] "[31m[1mGET /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:38:05] "[31m[1mGET /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:39:31] "[31m[1mGET /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:39:34] "[31m[1mGET /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:39:37] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:39:37] "[31m[1mDELETE /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:39:48] "[31m[1mGET /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:39:50] "[31m[1mGET /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:40:04] "[31m[1mGET /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:40:05] "[31m[1mGET /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:40:10] "[31m[1mGET /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:40:12] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:40:12] "[31m[1mDELETE /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:40:20] "[31m[1mGET /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:40:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:40:32] "[31m[1mGET /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:41:15] "[31m[1mGET /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:41:16] "[31m[1mGET /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:41:38] "[31m[1mGET /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:41:40] "[31m[1mGET /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:41:42] "[31m[1mGET /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:41:43] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:41:44] "[31m[1mDELETE /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:41:49] "[31m[1mGET /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:41:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\jordo\\OneDrive\\Documents\\GitHub\\ff-op-cost\\backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug: * Detected change in 'C:\\Users\\jordo\\OneDrive\\Documents\\GitHub\\ff-op-cost\\backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:42:43] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:42:46] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:42:47] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:42:51] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:42:52] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:42:54] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:42:54] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:42:58] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:42:58] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:43:01] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:43:01] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:43:43] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:44:02] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:44:03] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:44:04] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:44:04] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:44:07] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:44:10] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:44:11] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:44:11] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:44:15] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:44:16] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:44:17] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:57:50] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:57:54] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:57:54] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:57:56] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:00] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:00] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:02] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:08] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:10] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:10] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:10] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:11] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:12] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:12] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:28] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:30] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:30] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:31] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:31] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:33] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:36] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:37] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:40] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:42] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:42] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:43] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:43] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:44] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:44] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:58:50] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:09] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:12] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:12] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:14] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:14] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:20] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:20] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:20] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:31] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:35] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:35] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:37] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:39] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:39] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:40] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:46] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:51] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:51] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:54] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:54] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:55] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2024 23:59:57] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:26] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:29] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:30] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:32] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:34] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:34] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:35] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:36] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:36] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:37] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:37] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:37] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:38] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:38] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:45] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:49] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:49] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:49] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:50] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:50] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:50] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:50] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:50] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:04:56] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:21:28] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:21:32] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:21:32] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:21:35] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:21:36] "[31m[1mPOST /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:22:49] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:22:51] "[31m[1mPOST /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:22:55] "[31m[1mPOST /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:22:55] "[31m[1mPOST /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:25:05] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:25:08] "[31m[1mPOST /players HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:25:12] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:25:12] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:25:13] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:25:16] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:25:50] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:25:52] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:25:53] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:25:55] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:25:57] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:26:02] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:26:04] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:26:04] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:26:11] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:26:11] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:26:12] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:26:21] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:26:23] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:26:23] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:27:22] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:27:26] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:27:26] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:27:28] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:27:30] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:29:28] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:29:31] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:29:32] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:29:34] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:29:36] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:29:37] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:31:03] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:31:04] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:31:05] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:00] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:00] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:00] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:01] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:05] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:06] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:06] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:06] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:10] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:11] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:11] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:11] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:19] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:22] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:22] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:22] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:22] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:23] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:23] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:24] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:24] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:25] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:27] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:28] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:28] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:29] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:29] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:29] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:29] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:29] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:29] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:29] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:30] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:30] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:30] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:30] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:30] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:30] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:31] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:31] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:31] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:32:32] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\jordo\\OneDrive\\Documents\\GitHub\\ff-op-cost\\backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 569-282-740
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:33:29] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:33:30] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:36:37] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:36:39] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:36:40] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:36:40] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:36:59] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:00] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:00] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:03] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:04] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:04] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:05] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:06] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:06] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:06] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:06] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:06] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:15] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:20] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:20] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:22] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:23] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:24] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:24] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:26] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:26] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:26] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:26] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:37:28] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:42:12] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:42:13] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:42:18] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:42:18] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:42:18] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:42:35] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:42:36] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:42:45] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:42:47] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:42:48] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:42:49] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:42:50] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:42:51] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:42:56] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:42:56] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:42:57] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:42:59] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:42:59] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:43:01] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:43:02] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:43:03] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:43:04] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:43:04] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:43:04] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:43:07] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:43:07] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:43:08] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:43:09] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:43:10] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:43:11] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:43:11] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:43:11] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:45:14] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:45:18] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:45:19] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:45:19] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:46:32] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:46:32] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:46:33] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:46:33] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:47:08] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:47:08] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:47:10] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:47:17] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:47:17] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:47:17] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:47:57] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:48:00] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:48:00] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:48:01] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:48:19] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:48:19] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:48:19] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:50:20] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:50:24] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:50:25] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:50:25] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:50:32] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:50:32] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:50:34] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:50:36] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:50:36] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:50:36] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:50:41] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:50:41] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:50:59] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:51:00] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:51:00] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:51:07] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:51:08] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:51:08] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:51:13] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:51:14] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:51:14] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:51:27] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:51:27] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:51:28] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:51:34] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:51:34] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:51:34] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:51:39] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:51:40] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:51:40] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:51:54] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:51:54] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:51:54] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:00] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:00] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:01] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:10] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:11] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:11] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:12] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:12] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:13] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:14] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:14] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:14] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:14] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:15] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:15] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:15] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:16] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:16] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:16] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:17] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:17] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:17] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:17] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:18] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:18] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:18] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:18] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:18] "[35m[1mPOST /players HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:19] "[35m[1mGET /recommendation HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:19] "[35m[1mGET /recommendation HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:20] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:22] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:23] "[35m[1mPOST /players HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:28] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:32] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:32] "[35m[1mPOST /players HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:52:38] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:00] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:11] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:12] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:13] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:28] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:28] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:28] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:52] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:53] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:53] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:53] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:54] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:54] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:54] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:55] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:55] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:55] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:55] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:56] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:56] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:56] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:56] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:56] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:56] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:56] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:57] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:57] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:57] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:57] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:57] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:57] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:58] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:58] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:58] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:58] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:58] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:58] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:58] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:58] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:58] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:58] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:58] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:58] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:58] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:59] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:59] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:59] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:59] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:59] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:59] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:54:59] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:55:00] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:55:00] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:55:00] "[35m[1mPOST /players HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:55:00] "[35m[1mPOST /players HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:55:00] "[35m[1mGET /recommendation HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:55:00] "[35m[1mGET /recommendation HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:55:00] "[35m[1mGET /recommendation HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:55:00] "[35m[1mPOST /players HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:55:01] "[35m[1mPOST /players HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:55:01] "[35m[1mPOST /players HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:55:01] "[35m[1mGET /recommendation HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:55:01] "[35m[1mGET /recommendation HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:55:01] "[35m[1mGET /recommendation HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:55:01] "[35m[1mGET /recommendation HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:55:01] "[35m[1mGET /recommendation HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:57:11] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:58:32] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:58:35] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:58:35] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:58:36] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:58:39] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:58:40] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:58:40] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:58:43] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:58:44] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:58:50] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:58:50] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:58:51] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:58:54] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:58:54] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:58:56] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:58:56] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:58:57] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:09] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:09] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:09] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:14] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:21] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:21] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:21] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:22] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:23] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:25] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:25] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:26] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:26] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:27] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:27] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:31] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:31] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:32] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:33] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:33] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:34] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:35] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:36] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:36] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 00:59:38] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:22:28] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:22:41] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:22:41] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:22:43] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:23:03] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:23:03] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:23:04] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:33] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:34] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:34] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:41] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:41] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:41] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:42] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:43] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:43] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:43] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:43] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:43] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:43] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:44] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:44] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:44] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:44] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:44] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:44] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:45] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:45] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:46] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:46] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:46] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:46] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:46] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:46] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:46] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:47] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:47] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:47] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:47] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:47] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:50] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:50] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:50] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:50] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:50] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:51] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:51] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:51] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:51] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:51] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:51] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:52] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:24:59] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:25:05] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:25:59] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:25:59] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 19:26:01] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2024 20:36:10] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2024 20:36:10] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 21:34:48] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 21:38:43] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 21:39:15] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 21:42:37] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 21:45:05] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 21:46:17] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 21:47:23] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 21:47:43] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 21:48:30] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 21:49:33] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 21:49:59] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 21:52:02] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 21:55:07] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 21:55:09] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 21:55:50] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 21:55:54] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 21:56:30] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 21:56:39] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 21:56:45] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:00:13] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:00:26] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:01:10] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:01:21] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:04:33] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:04:40] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:05:45] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:08:03] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:08:39] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:08:40] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:08:51] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:08:53] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:08:55] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:09:28] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:10:22] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:12:13] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:14:51] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:15:43] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:16:19] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:16:20] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:16:23] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:17:29] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:22:13] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:26:52] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:26:55] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:26:56] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:26:59] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:26:59] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:26:59] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:27:00] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:27:00] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:27:01] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:27:03] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:27:06] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:27:56] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:28:30] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:28:51] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:28:54] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:29:18] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:30:46] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:38:14] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:38:25] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:38:39] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:39:24] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:39:28] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:40:28] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:44:50] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:45:36] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:45:43] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:46:06] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:46:14] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:46:26] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:46:29] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:49:07] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:53:51] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:54:12] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:54:20] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:55:49] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:56:27] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:57:14] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:58:05] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:58:29] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:58:53] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 22:59:39] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:00:08] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:01:12] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:02:25] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:03:43] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:05:42] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:08:26] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:08:26] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:08:26] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:09:33] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:09:41] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:09:44] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:09:45] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:09:47] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:09:47] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:09:47] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:10:23] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:10:25] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:10:25] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:10:25] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:10:35] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:10:35] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:10:35] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:10:35] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:10:35] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:17:33] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:21:02] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:21:03] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:21:04] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:21:04] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:21:07] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:21:09] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:21:10] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:21:10] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:22:11] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:22:11] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:22:11] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:23:48] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:23:49] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:23:49] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:23:50] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:24:46] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:24:48] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:24:49] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:24:50] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:24:50] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:26:43] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:26:44] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:26:44] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:26:44] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:26:56] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:26:57] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:26:57] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:27:02] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:27:02] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:27:02] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:28:11] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:28:14] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:28:15] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:28:15] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:29:19] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:29:22] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:29:22] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:29:22] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:29:34] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:29:34] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:29:37] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:29:42] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:29:42] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:29:42] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:29:46] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:29:46] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:29:50] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:29:51] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:29:51] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:29:55] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:29:55] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:29:59] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:00] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:00] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:02] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:02] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:06] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:06] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:06] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:17] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:17] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:17] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:21] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:21] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:23] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:24] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:24] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:25] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:26] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:27] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:28] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:29] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:29] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:29] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:46] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:46] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:46] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:49] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:30:50] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:05] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:05] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:06] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:08] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:08] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:09] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:09] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:11] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:11] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:11] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:12] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:12] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:13] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:14] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:14] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:15] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:16] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:16] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:24] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:25] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:25] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:29] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:40] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:40] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:58] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:31:58] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:32:05] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:32:05] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:32:07] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:32:07] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:32:19] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:32:19] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:32:19] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:32:28] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:32:28] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:32:33] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:32:34] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:32:34] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:32:41] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:32:41] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:32:44] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:32:44] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:32:45] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:32:45] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:33:03] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:33:03] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:33:03] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:33:15] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:33:16] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:33:16] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:33:21] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:33:22] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:33:24] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:33:24] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:36:50] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:36:50] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:37:37] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:37:37] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:38:05] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:38:05] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:40:23] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:40:23] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:41:34] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:41:34] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:41:56] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:41:56] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:43:00] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:43:00] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:43:19] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:43:19] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:44:05] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:44:05] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:44:22] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:44:23] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:45:27] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:45:27] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:45:45] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:45:45] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:46:10] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:46:10] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:47:01] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:47:02] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:47:21] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:47:21] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:47:34] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:47:34] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:48:21] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:48:21] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:49:14] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:49:14] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:49:15] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:49:16] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:49:45] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:49:47] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:49:47] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:49:50] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:49:50] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:49:50] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:49:51] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:49:54] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:49:54] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:49:54] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:05] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:05] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:05] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:08] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:09] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:10] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:11] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:11] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:14] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:15] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:17] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:17] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:17] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:19] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:20] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:25] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:25] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:44] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:45] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:48] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:48] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:54] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:55] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:50:55] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:53:23] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:53:23] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:53:32] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:53:32] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:53:55] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:53:55] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:54:33] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:54:33] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:55:45] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:55:45] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:56:58] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:56:58] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:57:20] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:57:20] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:58:04] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:58:04] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:58:47] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:58:48] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:59:19] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:59:19] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:59:48] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Aug/2024 23:59:48] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:03] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:03] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:03] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:05] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:05] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:07] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:08] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:10] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:10] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:10] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:14] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:14] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:16] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:16] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:17] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:23] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:23] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:24] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:25] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:25] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:26] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:26] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:27] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:28] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:33] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:33] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:34] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:35] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:35] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:38] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:39] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:39] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:40] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:40] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:42] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:42] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:42] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:43] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:43] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:44] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:44] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:44] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:45] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:45] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:45] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:46] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:47] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:47] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:48] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:48] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:49] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:49] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:49] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:50] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:50] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:50] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:51] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:51] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:53] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:53] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:55] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:56] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:56] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:57] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:57] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:58] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:58] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:58] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:59] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:00:59] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:00] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:00] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:00] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:02] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:03] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:03] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:03] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:04] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:04] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:05] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:05] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:05] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:09] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:09] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:09] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:11] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:11] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:15] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:16] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:16] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:19] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:20] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:26] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:26] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:26] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:26] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:27] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:27] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:28] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:29] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:29] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:34] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:35] "POST /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:35] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:39] "OPTIONS /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:40] "DELETE /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:41] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:01:42] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:02:11] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:02:11] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:02:40] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:02:40] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:03:04] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:03:04] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:03:24] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:03:24] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:03:24] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:03:24] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:03:25] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:03:25] "GET /recommendation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:03:28] "GET /players HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Aug/2024 00:03:28] "GET /recommendation HTTP/1.1" 200 -

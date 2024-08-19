@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet"/>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fantasy Draft Helper</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="right-sidebar">
+      <div class="row" style="padding-bottom: 0px; padding-top: 0px;">
+        <button type="button" class="btn" onclick="reset_draft()" style="margin-left: 20px;">Reset</button>
+      </div>
+      <div class="row" style="margin: 0px; padding: 0px;">
+        Draft Turn: 
+        <div id="turn-value">0</div>
+      </div>
+
+    </div>
+  <div class="right-sidebar">
+    <div>
+      <input type="text" id="player-search" onkeyup="seachPlayers()" placeholder="Search Player Name">
+      <nav>
+        <ul id="player-list">
+        </ul>
+      </nav>
+    </div>
+  <div class="col">
+    <div class="position-row">
+      <div class="col">
+        <div class="row">
+        <h5 class="mt-0 mb-1">Best Available QB</h5>
+        <img class="align-self-center mr-3" src="pixel_nfl.jpg" alt="Generic placeholder image" style="width: 80px; height: 80px">
+        <div id="best-available-qb" class="media-body"></div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="row">
+        <h5 class="mt-0 mb-1">Next Available QB</h5>
+        <img class="align-self-center mr-3" src="pixel_nfl.jpg" alt="Generic placeholder image" style="width: 80px; height: 80px">
+        <div id="next-best-available-qb" class="media-body"></div>
+        </div>
+      </div>
+      <div class="col">
+        <h5 class="mt-0 mb-1">Diff</h5>
+        <div id="qb-diff" class="media-body"></div>
+      </div>
+    </div>
+    <div class="position-row">
+      <div class="col">
+        <div class="row">
+        <h5 class="mt-0 mb-1">Best Available WR</h5>
+        <img class="align-self-center mr-3" src="pixel_nfl.jpg" alt="Generic placeholder image" style="width: 80px; height: 80px">
+        <div id="best-available-wr" class="media-body"></div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="row">
+        <h5 class="mt-0 mb-1">Next Available WR</h5>
+        <img class="align-self-center mr-3" src="pixel_nfl.jpg" alt="Generic placeholder image" style="width: 80px; height: 80px">
+        <div id="next-best-available-wr" class="media-body"></div>
+        </div>
+      </div>
+      <div class="col">
+        <h5 class="mt-0 mb-1">Diff</h5>
+        <div id="wr-diff" class="media-body"></div>
+      </div>
+    </div><div class="position-row">
+      <div class="col">
+        <div class="row">
+        <h5 class="mt-0 mb-1">Best Available RB</h5>
+        <img class="align-self-center mr-3" src="pixel_nfl.jpg" alt="Generic placeholder image" style="width: 80px; height: 80px">
+        <div id="best-available-rb" class="media-body"></div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="row">
+        <h5 class="mt-0 mb-1">Next Available RB</h5>
+        <img class="align-self-center mr-3" src="pixel_nfl.jpg" alt="Generic placeholder image" style="width: 80px; height: 80px">
+        <div id="next-best-available-rb" class="media-body"></div>
+        </div>
+      </div>
+      <div class="col">
+        <h5 class="mt-0 mb-1">Diff</h5>
+        <div id="rb-diff" class="media-body"></div>
+      </div>
+    </div><div class="position-row">
+      <div class="col">
+        <div class="row">
+        <h5 class="mt-0 mb-1">Best Available TE</h5>
+        <img class="align-self-center mr-3" src="pixel_nfl.jpg" alt="Generic placeholder image" style="width: 80px; height: 80px">
+        <div id="best-available-te" class="media-body"></div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="row">
+        <h5 class="mt-0 mb-1">Next Available TE</h5>
+        <img class="align-self-center mr-3" src="pixel_nfl.jpg" alt="Generic placeholder image" style="width: 80px; height: 80px">
+        <div id="next-best-available-te" class="media-body"></div>
+        </div>
+      </div>
+      <div class="col">
+        <h5 class="mt-0 mb-1">Diff</h5>
+        <div id="te-diff" class="media-body"></div>
+      </div>
+    </div>
+    
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="script.js"></script>
+</body>
+
+</html>
